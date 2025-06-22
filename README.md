@@ -2,15 +2,14 @@
 
 This repository provides practical demonstrations and command references for exploiting vulnerabilities and misconfigurations in **Active Directory Certificate Services (ADCS)**. These techniques are essential for red teamers, penetration testers, and security researchers assessing Windows enterprise environments. Please share this with your connections and direct queries and feedback to [Hacking Articles](https://twitter.com/hackinarticles).
 
-[1.5]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/linked.png
+[1.5]: https://i.pinimg.com/474x/18/7e/51/187e511cdb50bf5614bc5dbc29eaeed8.jpg
 [1.6]: https://www.linkedin.com/company/hackingarticles/
 [1.3]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/discord.png
 [1.4]: https://discord.com/invite/kyKvXwK4Bk
-[1.1]: https://i.pinimg.com/736x/2f/b9/09/2fb909b74a854f0715e64dda5825990d.jpg
+[1.1]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/twitter.png
 [1]: http://www.twitter.com/hackinarticles
 # Follow us on [![alt text][1.1]][1] [![alt text][1.3]][1.4] [![alt text][1.5]][1.6]
 
-![image]()
 
 1. [AD Certificate Exploitation: ESC1](https://www.hackingarticles.in/ad-certificate-exploitation-esc1/)
 2. [AD Certificate Exploitation: ESC2](https://www.hackingarticles.in/ad-certificate-exploitation-esc2/)
