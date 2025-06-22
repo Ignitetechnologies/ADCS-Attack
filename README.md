@@ -2,13 +2,18 @@
 
 This repository provides practical demonstrations and command references for exploiting vulnerabilities and misconfigurations in **Active Directory Certificate Services (ADCS)**. These techniques are essential for red teamers, penetration testers, and security researchers assessing Windows enterprise environments. Please share this with your connections and direct queries and feedback to [Hacking Articles](https://twitter.com/hackinarticles).
 
-[1.5]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/linked.png
-[1.6]: https://www.linkedin.com/company/hackingarticles/
-[1.3]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/discord.png
-[1.4]: https://discord.com/invite/kyKvXwK4Bk
-[1.1]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/twitter.png
-[1]: http://www.twitter.com/hackinarticles
-# Follow us on [![alt text][1.1]][1] [![alt text][1.3]][1.4] [![alt text][1.5]][1.6]
+<h2 align="left">
+  Follow us on
+  <a href="https://twitter.com/hackinarticles">
+    <img src="https://github.com/Ignitetechnologies/ADCS-Attack/blob/a17ce4dc1c1b7950624f500fa4457ce3b26f5459/5ec14aa8686c6761c75b20a164a8afc2.jpg?raw=true" alt="Twitter" width="28" height="25">
+  </a>
+  <a href="https://discord.com/invite/kyKvXwK4Bk">
+    <img src="https://github.com/Ignitetechnologies/ADCS-Attack/blob/a17ce4dc1c1b7950624f500fa4457ce3b26f5459/kisspng-discord-computer-icons-portable-network-graphics-s-10-min-discord-show-mfc-share-5b6ace252d8ee6.3205757415337262451866.webp?raw=true" alt="Discord" width="28" height="25">
+  </a>
+  <a href="https://www.linkedin.com/company/hackingarticles/">
+    <img src="https://github.com/Ignitetechnologies/ADCS-Attack/blob/a17ce4dc1c1b7950624f500fa4457ce3b26f5459/hd-vector-flat-linkedin-in-round-icon-png-701751695046390m4phkuuiqm.png?raw=true" alt="LinkedIn" width="28" height="25">
+  </a>
+</h2>
 
 
 1. [AD Certificate Exploitation: ESC1](https://www.hackingarticles.in/ad-certificate-exploitation-esc1/)
