@@ -6,11 +6,11 @@ This repository provides practical demonstrations and command references for exp
 [1.6]: https://www.linkedin.com/company/hackingarticles/
 [1.3]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/discord.png
 [1.4]: https://discord.com/invite/kyKvXwK4Bk
-[1.1]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/twitter.png
+[1.1]: https://i.pinimg.com/736x/2f/b9/09/2fb909b74a854f0715e64dda5825990d.jpg
 [1]: http://www.twitter.com/hackinarticles
 # Follow us on [![alt text][1.1]][1] [![alt text][1.3]][1.4] [![alt text][1.5]][1.6]
 
-![image](https://raw.githubusercontent.com/Ignitetechnologies/Credential-Dumping/master/creds.jpg)
+![image]()
 
 1. [AD Certificate Exploitation: ESC1](https://www.hackingarticles.in/ad-certificate-exploitation-esc1/)
 2. [AD Certificate Exploitation: ESC2](https://www.hackingarticles.in/ad-certificate-exploitation-esc2/)
